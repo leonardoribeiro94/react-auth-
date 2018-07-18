@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import Login from "./containers/Login/Login"
+import Login from "./containers/User/Login/Login"
 import UserDetails from "./containers/User/UserDetails";
 import UserList from "./containers/User/UserList";
 import NotFound from "./404";
