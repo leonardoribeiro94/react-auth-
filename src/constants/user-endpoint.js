@@ -1,1 +1,1 @@
-const USER_URL = "http://localhost:8080/users";
+export const USER_URL = "http://localhost:8080/users";
